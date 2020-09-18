@@ -16,7 +16,7 @@
   </style>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <meta http-equiv="refresh" content="5000" >
-  <title>c0unt s3c0ds ti11 5day</title>
+  <title>mini5day</title>
 </head> 
 
 <body>
